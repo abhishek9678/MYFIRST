@@ -175,7 +175,7 @@ color: rgb(255, 255, 255);
 .aboutme{
     background-color: #101010;;
     color: #fff;
-    background-image: url(/images/profile.jpg);
+    background-image: url(images/profile.jpg);
     height: 600px;
     width: 100%;
     background-position:center;
